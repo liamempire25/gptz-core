@@ -8,3 +8,5 @@ openai
 web3
 apscheduler
 python-dateutil
+python-telegram-bot==20.0
+bitwarden-cli
